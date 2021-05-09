@@ -1,8 +1,8 @@
 # COVID-19 Vaccination Progress by US County (2021)
 This is a companion repository for the article submitted to the [International Journal of Epidemiology](https://academic.oup.com/ije) titled "COVID-19 vaccine uptake in United States counties: geospatial vaccination patterns and trajectories towards herd immunity" by Pavel Chernyavskiy, _author2_, and _author3_. A pre-print of our article is located [here]. 
 In this repository we will provide:
-1) updated versions of the figures in our article using most recent vaccination data
-2) links to interactive and clickable versions of the maps in our article
+1) updated versions of all figures using most recent vaccination data
+2) links to interactive and clickable versions of the maps
 
 This repository will be updated weekly, at least through the end of 2021. For inquiries please contact Pavel Chernyavskiy.
 

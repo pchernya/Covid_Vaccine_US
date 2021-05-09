@@ -4,7 +4,7 @@ In this repository we will provide:
 1) updated versions of all figures using most recent vaccination data
 2) links to interactive and clickable versions of the maps
 
-This repository will be updated weekly, at least through the end of 2021. For inquiries please contact Pavel Chernyavskiy.
+This repository will be updated weekly, at least through the end of 2021.
 
 # May 8, 2021 UPDATE
 Cumulative percentage of residents with at least one dose of the COVID-19 vaccine by county (Nc = 3137) and week (Nt = 13), February 13, 2021 through May 08, 2021. Each panel is labelled using a two-letter US state abbreviation. Each point plotted represents data for a county at the end of a given week. Some overplotting may occur; this may lead to an appearance of darker coloured points.

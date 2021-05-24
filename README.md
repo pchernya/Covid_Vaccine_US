@@ -15,7 +15,7 @@ Estimated coefficients of time-fixed and time-varying US county effects from the
 ![Figure 2](Fig2_fixed_effects_05232021.png)
 ___
 
-Standardized time-averaged joint (spatial + unstructured) county effects (top) and standardized deviations from the typical trajectory per US county (bottom). Values > 0 indicate a county is over-performing expectations under the model; values < 0 indicate a county is under-performing expectations under the model. Diagonal hatch pattern indicates missing data, which occurs for three counties: one in Alaska, one in Arizona, and one in South Dakota. **An UPDATED interactive and clickable version of the top panel is located [here](...) and of the bottom panel [here](...).**
+Standardized time-averaged joint (spatial + unstructured) county effects (top) and standardized deviations from the typical trajectory per US county (bottom). Values > 0 indicate a county is over-performing expectations under the model; values < 0 indicate a county is under-performing expectations under the model. Diagonal hatch pattern indicates missing data, which occurs for three counties: one in Alaska, one in Arizona, and one in South Dakota. **An UPDATED interactive and clickable version of the top panel is located [here](https://pchern.carto.com/builder/c592cfff-ba03-4b0c-982d-d333b131971f/embed) and of the bottom panel [here](...).**
 ![Figure 3](Fig3_county_ints_slps_05232021.png)
 
 **The ARCHIVED version that matches our manuscript is stored here: Figure 3 top panel [here](https://pchern.carto.com/builder/132aa63e-384a-4831-819b-7953264f3974/embed) and of the Figure 3 bottom panel [here](https://pchern.carto.com/builder/bc5c7451-c367-4a4b-9daf-109e77962cae/embed).**

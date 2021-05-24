@@ -15,7 +15,7 @@ Estimated coefficients of time-fixed and time-varying US county effects from the
 ![Figure 2](Fig2_fixed_effects_05232021.png)
 ___
 
-Standardized time-averaged joint (spatial + unstructured) county effects (top) and standardized deviations from the typical trajectory per US county (bottom). Values > 0 indicate a county is over-performing expectations under the model; values < 0 indicate a county is under-performing expectations under the model. Diagonal hatch pattern indicates missing data, which occurs for three counties: one in Alaska, one in Arizona, and one in South Dakota. **An UPDATED interactive and clickable version of the top panel is located [here](https://pchern.carto.com/builder/c592cfff-ba03-4b0c-982d-d333b131971f/embed) and of the bottom panel [here](...).**
+Standardized time-averaged joint (spatial + unstructured) county effects (top) and standardized deviations from the typical trajectory per US county (bottom). Values > 0 indicate a county is over-performing expectations under the model; values < 0 indicate a county is under-performing expectations under the model. Diagonal hatch pattern indicates missing data, which occurs for three counties: one in Alaska, one in Arizona, and one in South Dakota. **An UPDATED interactive and clickable version of the top panel is located [here](https://pchern.carto.com/builder/c592cfff-ba03-4b0c-982d-d333b131971f/embed) and of the bottom panel [here](https://pchern.carto.com/builder/1b20369d-ae3e-4939-9adf-192912ea787c/embed).**
 ![Figure 3](Fig3_county_ints_slps_05232021.png)
 
 **The ARCHIVED version that matches our manuscript is stored here: Figure 3 top panel [here](https://pchern.carto.com/builder/132aa63e-384a-4831-819b-7953264f3974/embed) and of the Figure 3 bottom panel [here](https://pchern.carto.com/builder/bc5c7451-c367-4a4b-9daf-109e77962cae/embed).**
@@ -26,7 +26,7 @@ Fitted and forecasted trajectories for representative counties in the top 10%, t
 ![Figure 4](Fig4_cnty_traj_05232021.png)
 ___
 
-Forecasted percentage with at least one dose by US county for the week ending on July 31 (July 25 – 31) (top) and the estimated probability of herd immunity, i.e. Pr(prediction > 70%) (bottom). Diagonal hatch pattern indicates missing data. Diagonal hatch pattern indicates missing data, which occurs for three counties: one in Alaska, one in Arizona, and one in South Dakota. **An UPDATED interactive and clickable version of the top panel is located [here](...) where Pr(Herd immunity) is reported after clicking on a county.**
+Forecasted percentage with at least one dose by US county for the week ending on July 31 (July 25 – 31) (top) and the estimated probability of herd immunity, i.e. Pr(prediction > 70%) (bottom). Diagonal hatch pattern indicates missing data. Diagonal hatch pattern indicates missing data, which occurs for three counties: one in Alaska, one in Arizona, and one in South Dakota. **An UPDATED interactive and clickable version of the top panel is located [here](https://pchern.carto.com/builder/0d978e22-8bd1-4903-a095-c36b1cfbe3bc/embed) where Pr(Herd immunity) is reported after clicking on a county.**
 ![Figure 5](Fig5_predJuly31_05232021.png)
 
 **The ARCHIVED version that matches our manuscript is stored here: Figure 5 top panel [here](https://pchern.carto.com/builder/434f9cf0-a03e-4335-aac3-85788014aa75/embed) where Pr(Herd immunity) is reported after clicking on a county.**

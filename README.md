@@ -6,8 +6,8 @@ In this repository we will provide:
 
 This repository will be updated weekly at the beginning of the week. **The ARCHIVED versions of figures are stored with the as-of date (e.g., 05162021, 05232021) in the title**.
 
-# June 27, 2021 UPDATE
-Cumulative percentage of residents with at least one dose of the COVID-19 vaccine by county and week, March 7, 2021 through May 30, 2021. Each panel is labelled using a two-letter US state abbreviation. Each point plotted represents data for a county at the end of a given week. Some overplotting may occur; this may lead to an appearance of darker colored points.
+# July 4, 2021 UPDATE
+Cumulative percentage of residents with at least one dose of the COVID-19 vaccine by county and week, April 11, 2021 through July 4, 2021. Each panel is labelled using a two-letter US state abbreviation. Each point plotted represents data for a county at the end of a given week. Some overplotting may occur; this may lead to an appearance of darker colored points.
 ![Figure 1](Fig1_vac_by_state_06272021.png)
 ___
 

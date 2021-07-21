@@ -29,7 +29,7 @@ Dashed horizontal line indicates the herd immunity threshold of 70%. Counties in
 ![Figure 4](Fig4_cnty_traj_07212021.png)
 ___
 
-Forecasted percentage with at least one dose by US county for the week ending on July 31 (July 25 – 31) (top) and the estimated probability of herd immunity, i.e. Pr(prediction > 70%) (bottom). Diagonal hatch pattern indicates missing data. Diagonal hatch pattern indicates missing data. We plan to move the forecast date further into the future during July 2021.
+Forecasted percentage with at least one dose by US county for the week ending on July 31 (July 25 – 31) (top) and the estimated probability of herd immunity, i.e. Pr(prediction > 70%) (bottom). Diagonal hatch pattern indicates missing data. We plan to move the forecast date further into the future during July 2021.
 
 **An UPDATED interactive and clickable version of the top panel is located [here](https://pchern.carto.com/builder/0d978e22-8bd1-4903-a095-c36b1cfbe3bc/embed) where Pr(Herd immunity) is reported after clicking on a county.**
 ![Figure 5](Fig5_predJuly31_07212021.png)

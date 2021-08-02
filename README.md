@@ -6,7 +6,7 @@ In this repository we will provide:
 
 This repository will be updated weekly at the beginning of the week. **The ARCHIVED versions of figures are stored with the as-of date (e.g., 05162021, 05232021) in the title**.
 
-# July 21, 2021 UPDATE
+# August 2nd, 2021 UPDATE
 Cumulative percentage of residents with at least one dose of the COVID-19 vaccine by county and week, April 28, 2021 through July 21, 2021. Each panel is labelled using a two-letter US state abbreviation. Each point plotted represents data for a county at the end of a given week. Some overplotting may occur; this may lead to an appearance of darker colored points.
 ![Figure 1](Fig1_vac_by_state_07212021.png)
 ___
@@ -23,13 +23,10 @@ Standardized time-averaged joint (spatial + unstructured) county effects (top) a
 **The ARCHIVED version that matches our manuscript is stored here: Figure 3 top panel [here](https://pchern.carto.com/builder/132aa63e-384a-4831-819b-7953264f3974/embed) and of the Figure 3 bottom panel [here](https://pchern.carto.com/builder/bc5c7451-c367-4a4b-9daf-109e77962cae/embed).**
 ___
 
-Fitted and forecasted trajectories for representative counties in the top 10%, top 25%, median, bottom 25%, and bottom 10% of estimated trajectories. Vaccination rates for the last 13 weeks of observed data (top) and forecasted rates through February 2022 (bottom) are shown. Keep in mind that percentiles are assigned based on trajectories over the past 13 weeks - not average vaccination rates.
-Dashed horizontal line indicates the herd immunity threshold of 70%. Counties in the top 10% of estimated trajectories are expected to reach herd immunity during Jan 17–23,2022 (I); top 25% during Jan 17–23,2022 (II); bottom 25% during Dec 6-12,2021 (IV). 
-
-![Figure 4](Fig4_cnty_traj_07212021.png)
+Because we have now surpassed the prediction horizon for our original model, we will not be producing representative county trajectories (Figure 4) going forward. County predictions for the end of November 2021 are located below.
 ___
 
-Forecasted percentage with at least one dose by US county for the week ending on July 31 (July 25 – 31) (top) and the estimated probability of herd immunity, i.e. Pr(prediction > 70%) (bottom). Diagonal hatch pattern indicates missing data. We plan to move the forecast date further into the future during July 2021.
+Forecasted percentage with at least one dose by US county for the week ending on November 28 (November 22 – 28) (top) and the estimated probability of herd immunity, i.e. Pr(prediction > 70%) (bottom). Diagonal hatch pattern indicates missing data. We plan to move the forecast date further into the future during July 2021. 
 
 **An UPDATED interactive and clickable version of the top panel is located [here](https://pchern.carto.com/builder/0d978e22-8bd1-4903-a095-c36b1cfbe3bc/embed) where Pr(Herd immunity) is reported after clicking on a county.**
 ![Figure 5](Fig5_predJuly31_07212021.png)
